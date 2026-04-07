@@ -6,3 +6,5 @@ All contributions are welcome:
 - Documentation improvements
 - Enhancements
 - Ideas
+
+- All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome
